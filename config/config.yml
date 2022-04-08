@@ -16,8 +16,8 @@ Nodes:
   -
     PanelType: "V2board" # Loại bảng điều khiển: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://daudau02.tk"
-      ApiKey: "key" # key liên kết với web
+      ApiHost: "https://csa-4gvpn.tk" # Bỏ "/"
+      ApiKey: "key" # Key liên kết với web
       NodeID: 1 # ID của nút server 
       NodeType: V2ray # Loại nút: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Thời gian chờ cho yêu cầu api
